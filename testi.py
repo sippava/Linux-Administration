@@ -1,3 +1,5 @@
 print("tervetuloa")
 print("hello world")
 print("hola mundo")
+print("bonjour le monde")
+print("hallo welt")
